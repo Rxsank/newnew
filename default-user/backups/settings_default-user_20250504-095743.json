@@ -2,8 +2,8 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
-        "NavOpened": "false",
+        "LNavOpened": "true",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "AlertWI_月灵儿.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}"
@@ -2567,7 +2567,7 @@
                     },
                     {
                         "identifier": "801feeb1-5546-4bd7-b4e4-c92fe4ccfd58",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "686f8ee0-1e5a-4449-80c9-1be64c6f893a",
