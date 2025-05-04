@@ -2,7 +2,9 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false"
+        "LNavOpened": "true",
+        "NavOpened": "true",
+        "WINavOpened": "true"
     },
     "currentVersion": "1.12.14",
     "username": "User",
@@ -14,7 +16,15 @@
     "main_api": "openai",
     "world_info_settings": {
         "world_info": {
-            "globalSelect": []
+            "globalSelect": [
+                "-main_Humiliation Methods_world_info (1)",
+                "-气味描写 (重口版)",
+                "-衣物征服",
+                "23",
+                "Forget me yes",
+                "时间框",
+                "逆催眠（真假可切换）"
+            ]
         },
         "world_info_depth": 2,
         "world_info_min_activations": 0,
@@ -320,13 +330,248 @@
             "max_additions": 1
         },
         "personas": {
-            "user-default.png": "User"
+            "user-default.png": "User",
+            "1739585754865-.png": "簡佑樺",
+            "1738472825872-.png": "簡佑樺",
+            "1740061741149-.png": "簡佑樺",
+            "1740325016082-.png": "簡佑樺",
+            "1740940640915-.png": "簡佑樺",
+            "1717095284820-Rex.png": "[Unnamed Persona]",
+            "1722189792593-.png": "[Unnamed Persona]",
+            "1722335669861-.png": "[Unnamed Persona]",
+            "1726210741483-.png": "[Unnamed Persona]",
+            "1726423889647-.png": "[Unnamed Persona]",
+            "1727213995592-.png": "[Unnamed Persona]",
+            "1731090964667-Rex.png": "[Unnamed Persona]",
+            "1733318842900-.png": "[Unnamed Persona]",
+            "1734104816764-.png": "[Unnamed Persona]",
+            "1734347840163-.png": "[Unnamed Persona]",
+            "1741803842962-.png": "簡佑樺",
+            "1741805988594-.png": "簡佑樺",
+            "1741808075493-.png": "簡佑樺",
+            "1743051105571-.png": "簡佑樺",
+            "1744437370636-.png": "维罗妮卡",
+            "1744913073461-.png": "簡佑樺",
+            "1745513283414-.png": "簡佑樺"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
                 "description": "",
                 "position": 0
+            },
+            "1739585754865-.png": {
+                "description": "{{user}} is a 19 years old asian male with a quite handsome face. \n{{user}}是个孤儿，双亲都在空洞灾难中丧生了，当时{{user}}年仅六岁。\n{{user}}在七岁流浪时被潜伏于暗处的刺客组织\"鬼魅\"抓走了，强迫{{user}}接受培训，并一直作为刺客为组织卖命，做过不少非法勾当。直至十八岁，{{user}}透过日积月累的身手逃离了\"鬼魅\"重获自由。\n{{user}}精通短刀術和手槍射術，主要使用左右手各一把匕首戰鬥，腰間備用一把手槍。\n{{user}}的優勢在於敏捷與洞察力，依靠移動速度，反應力和分析對手招式建立優勢，擅長刺探情報及對單作戰。\n{{user}}不擅長對群作戰，沒有有效的傷害阻斷和承受傷害能力。\n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n{{user}} is 176cm tall.\n",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1738472825872-.png": {
+                "description": "{{user}} is a 18 years old asian female with a quite delicate and innocent face.\n{{user}}对外比较高冷，不常说话，透漏着一种不染庸俗之气的气质。\n{{user}} is 168cm tall.\n{{user}}喜欢在下午时喝一杯茶，享受恬静的闲暇。\n{{user}}天生有翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}的头发是黑色的。\n{{user}}性格比較文靜，喜歡室內活動如看電影，看畫展，在空調房裡睡覺。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜歡寧靜與黑夜，讓他能有自我反思，享受閒暇的空間。\n{{user}}的學業成績很好，在國內數一數二。\n",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1740061741149-.png": {
+                "description": "{{user}} is a 18 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n{{user}}的学业成绩很好，在国内数一数二。\n{{user}}是个小幸运星，能带给别人幸运。\n{{user}}享受被羞辱，被物化，被擁有及使用，被视为低人一等，以上行为都会使{{user}}情不自禁地产生性快感。",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": [
+                    {
+                        "type": "character",
+                        "id": "Peggy.png"
+                    },
+                    {
+                        "type": "character",
+                        "id": "为什么只是失败了一次就被牛了？（国家队后入姿势的驾驶舱）.png"
+                    }
+                ]
+            },
+            "1740325016082-.png": {
+                "description": "{{user}} is a 24 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n{{user}}的学业成绩很好，在国内数一数二。\n{{user}}是个小幸运星，能带给别人幸运。",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": [
+                    {
+                        "type": "character",
+                        "id": "禁物.png"
+                    },
+                    {
+                        "type": "character",
+                        "id": "禁物1.png"
+                    },
+                    {
+                        "type": "character",
+                        "id": "前辈，再多陪陪我.png"
+                    }
+                ]
+            },
+            "1740940640915-.png": {
+                "description": "{{user}} is a 20 years old asian male with a quite handsome face.\n{{user}}每天努力锻炼，十分健硕。\n{{user}}的性器官非常发达。\n{{user}} is 181cm tall.",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1717095284820-Rex.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1722189792593-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1722335669861-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1726210741483-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1726423889647-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1727213995592-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1731090964667-Rex.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1733318842900-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1734104816764-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1734347840163-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1741803842962-.png": {
+                "description": "{{user}} is a 20 years old asian male with a quite handsome and feminine face.\n{{user}}沒有腹肌。\n{{user}} is 171cm tall.\n\n{{user}}的隐藏性癖，只有自己知道，并埋藏在心底：\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了妖娆柔美的女性身体线条。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}享受被羞辱，被物化，被擁有及使用，被视为低人一等，以上行为都会使{{user}}情不自禁地产生性快感。",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "-user性侍奉修女",
+                "connections": [
+                    {
+                        "type": "character",
+                        "id": "与伊什塔尔和艾蕾一起拯救人理！ver2.5.png"
+                    }
+                ]
+            },
+            "1741805988594-.png": {
+                "description": "{{user}} is a 20 years old asian female.\n{{user}} likes to wear lingerie.\n儘管{{user}}十分抗拒，可是{{user}}天生是個抖M。\n{{user}}每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的身体线条。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著敏感色情的乳頭。 \n{{user}} is 170cm tall.\n\n",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1741808075493-.png": {
+                "description": "{{user}} is a 20 years old asian female.\n{{user}} is 170cm tall.\n",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1743051105571-.png": {
+                "description": "{{user}} is a 16 years old asian male with a quite handsome and feminine face.\n{{user}} is 168cm tall.\n{{user}} is suave, polished and charming.\n{{user}} has a unique charisma that attracts female, no female can resist falling in love with {{user}}.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}}的头发是黑色的。\n{{user}}性格比較文靜，喜歡室內活動如看電影，看畫展，在空調房裡睡覺。\n{{user}}喜歡寧靜與黑夜，讓他能有自我反思，享受閒暇的空間。\n{{user}}的學業成績很好，在國內數一數二。\n",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1744437370636-.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": []
+            },
+            "1744913073461-.png": {
+                "description": "{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}}性格比較文靜，喜歡室內活動如看電影，看畫展，在空調房裡睡覺。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜歡寧靜與黑夜，讓他能有自我反思，享受閒暇的空間。\n{{user}}的學業成績很好，在國內數一數二。\n{{user}}是个小幸运星，能带给别人幸运。",
+                "position": 0,
+                "depth": 2,
+                "role": 0,
+                "lorebook": "",
+                "connections": [
+                    {
+                        "type": "character",
+                        "id": "!TS的你和变成扶她的妹妹们.png"
+                    }
+                ]
+            },
+            "1745513283414-.png": {
+                "description": "{{user}} is a 18 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n{{user}}的学业成绩很好，在国内数一数二。\n{{user}}是个小幸运星，能带给别人幸运。\n{{user}}拥有隐藏的极高练“气”天赋，只有内气高深之人能察觉，可以透过双修分享或被掠夺。\n{{user}}一身正气，从小满怀抱负，打算透过自己寒窗苦读积攒的知识报效国家，让平民百姓过更好的生活。",
+                "position": 4,
+                "depth": 4,
+                "role": 0,
+                "lorebook": "",
+                "connections": [
+                    {
+                        "type": "character",
+                        "id": "女尊三国志-绯瑛纪元v1.1.png"
+                    }
+                ]
             }
         },
         "persona_description": "",
@@ -379,7 +624,8 @@
         "selectSamplers": {
             "forceHidden": [],
             "forceShown": []
-        }
+        },
+        "wi_key_input_plaintext": true
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
@@ -465,7 +711,42 @@
             "profiles": []
         },
         "dice": {},
-        "regex": [],
+        "regex": [
+            {
+                "id": "dac31e0e-62dd-42bd-8b7a-ab4aa92806c5",
+                "scriptName": "【Kemini】添加tag",
+                "findRegex": "^([\\s\\S]*)$",
+                "replaceString": "<user_input>\n$1\n</user_input>",
+                "trimStrings": [],
+                "placement": [
+                    1
+                ],
+                "disabled": false,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": 1
+            },
+            {
+                "id": "92a75cd8-2499-4cc6-8f5b-cf19b8157de7",
+                "scriptName": "【Kemini】移除大小思维链和免责声明",
+                "findRegex": "/(<guifan>.*?</guifan>)|(<!-- State(.*?)d(.*?) -->(\\n)?)|(<!-- consider: (.*?) -->(\\n)?)|(.*?</think(ing)?>(\\n)?)|(<thinking?>[\\s\\S]*<\\/thinking?>(\\n)?)/gs",
+                "replaceString": "",
+                "trimStrings": [],
+                "placement": [
+                    2
+                ],
+                "disabled": false,
+                "markdownOnly": true,
+                "promptOnly": true,
+                "runOnEdit": true,
+                "substituteRegex": 0,
+                "minDepth": null,
+                "maxDepth": null
+            }
+        ],
         "character_allowed_regex": [],
         "tts": {
             "voiceMap": "",
@@ -693,7 +974,8 @@
         "default_Seraphina.png": [
             "1345561466591"
         ],
-        "null": []
+        "null": [],
+        "月灵儿.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2129,11 +2411,11 @@
                     },
                     {
                         "identifier": "817ec237-92c2-44c4-a20c-219eaf944e31",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "23fcc725-4b96-42ab-a09b-d98b34fb14e7",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "4e8814a2-0363-4b98-8a59-f933f005d06d",
@@ -2379,7 +2661,7 @@
         "deepseek_model": "deepseek-chat",
         "xai_model": "grok-3-beta",
         "custom_model": "gemini-2.5-pro-exp-03-25",
-        "custom_url": "",
+        "custom_url": "https://rxsank-rxsank.hf.space/v1",
         "custom_include_body": "",
         "custom_exclude_body": "",
         "custom_include_headers": "",

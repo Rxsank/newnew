@@ -17,7 +17,7 @@
     "groq_model": "llama-3.1-70b-versatile",
     "zerooneai_model": "yi-large",
     "custom_model": "gemini-2.5-pro-exp-03-25",
-    "custom_url": "",
+    "custom_url": "https://rxsank-rxsank.hf.space/v1",
     "custom_include_body": "",
     "custom_exclude_body": "",
     "custom_include_headers": "",
@@ -1410,11 +1410,11 @@
                 },
                 {
                     "identifier": "817ec237-92c2-44c4-a20c-219eaf944e31",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "23fcc725-4b96-42ab-a09b-d98b34fb14e7",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "4e8814a2-0363-4b98-8a59-f933f005d06d",
