@@ -2,19 +2,16 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
-        "NavOpened": "false",
+        "LNavOpened": "true",
+        "NavOpened": "true",
         "WINavOpened": "true",
         "AlertWI_月灵儿.png": "true",
         "StoryStringValidationCache": "{\"hashCache\":{\"7241261575272609\":{\"fieldsWarned\":{}}}}",
-        "SelectedNavTab": "rm_button_characters",
-        "AlertWI_被GM之神选中的我们的无尽冒险谭.png": "true",
-        "AlertRegex_被GM之神选中的我们的无尽冒险谭.png": "true",
-        "AlertWI_刀剑神域SAO v1.2.png": "true"
+        "SelectedNavTab": "rm_button_characters"
     },
     "currentVersion": "1.12.14",
     "username": "簡佑樺",
-    "active_character": "刀剑神域SAO v1.2.png",
+    "active_character": "月灵儿.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "kemini 4.0 正式版 3",
@@ -34,10 +31,10 @@
                 "逆催眠（真假可切换）"
             ]
         },
-        "world_info_depth": 4,
+        "world_info_depth": 2,
         "world_info_min_activations": 0,
         "world_info_min_activations_depth_max": 0,
-        "world_info_budget": 100,
+        "world_info_budget": 25,
         "world_info_include_names": true,
         "world_info_recursive": true,
         "world_info_overflow_alert": false,
@@ -402,7 +399,7 @@
                 ]
             },
             "1740325016082-.png": {
-                "description": "{{user}} is a 20 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n{{user}}的学业成绩很好，在国内数一数二。\n{{user}}是个小幸运星，能带给别人幸运。",
+                "description": "{{user}} is a 24 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n{{user}}的学业成绩很好，在国内数一数二。\n{{user}}是个小幸运星，能带给别人幸运。",
                 "position": 0,
                 "depth": 2,
                 "role": 0,
@@ -759,9 +756,7 @@
                 "maxDepth": null
             }
         ],
-        "character_allowed_regex": [
-            "被GM之神选中的我们的无尽冒险谭.png"
-        ],
+        "character_allowed_regex": [],
         "tts": {
             "voiceMap": "",
             "ttsEnabled": false,
@@ -964,14 +959,13 @@
             "chara": []
         },
         "quickReplyV2": {
-            "isEnabled": true,
+            "isEnabled": false,
             "isCombined": false,
             "isPopout": false,
-            "showPopoutButton": true,
             "config": {
                 "setList": [
                     {
-                        "set": "无限流跑团",
+                        "set": "Default",
                         "isVisible": true
                     }
                 ]
@@ -990,10 +984,7 @@
             "1345561466591"
         ],
         "null": [],
-        "月灵儿.png": [],
-        "被GM之神选中的我们的无尽冒险谭.png": [],
-        "艾可.png": [],
-        "刀剑神域SAO v1.2.png": []
+        "月灵儿.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -2553,7 +2544,7 @@
                     },
                     {
                         "identifier": "fdcc5b43-40ee-4ca8-844a-70c1a37d81e6",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "9880daca-1c3a-4532-8004-ecc779b6c980",
