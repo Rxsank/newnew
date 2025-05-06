@@ -17,11 +17,11 @@
     },
     "currentVersion": "1.12.14",
     "username": "簡佑樺",
-    "active_character": "装备我最强.png",
+    "active_character": "被GM之神选中的我们的无尽冒险谭.png",
     "active_group": null,
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "kemini 4.0 正式版 3",
-    "user_avatar": "1746568670527-.png",
+    "user_avatar": "1740325016082-.png",
     "amount_gen": 350,
     "max_context": 8192,
     "main_api": "openai",
@@ -363,15 +363,13 @@
             "1743051105571-.png": "簡佑樺",
             "1744437370636-.png": "维罗妮卡",
             "1744913073461-.png": "簡佑樺",
-            "1745513283414-.png": "簡佑樺",
-            "1746568670527-.png": "簡佑樺"
+            "1745513283414-.png": "簡佑樺"
         },
         "default_persona": null,
         "persona_descriptions": {
             "user-default.png": {
                 "description": "",
-                "position": 0,
-                "connections": []
+                "position": 0
             },
             "1739585754865-.png": {
                 "description": "{{user}} is a 19 years old asian male with a quite handsome face. \n{{user}}是个孤儿，双亲都在空洞灾难中丧生了，当时{{user}}年仅六岁。\n{{user}}在七岁流浪时被潜伏于暗处的刺客组织\"鬼魅\"抓走了，强迫{{user}}接受培训，并一直作为刺客为组织卖命，做过不少非法勾当。直至十八岁，{{user}}透过日积月累的身手逃离了\"鬼魅\"重获自由。\n{{user}}精通短刀術和手槍射術，主要使用左右手各一把匕首戰鬥，腰間備用一把手槍。\n{{user}}的優勢在於敏捷與洞察力，依靠移動速度，反應力和分析對手招式建立優勢，擅長刺探情報及對單作戰。\n{{user}}不擅長對群作戰，沒有有效的傷害阻斷和承受傷害能力。\n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n{{user}} is 176cm tall.\n",
@@ -585,22 +583,9 @@
                         "id": "女尊三国志-绯瑛纪元v1.1.png"
                     }
                 ]
-            },
-            "1746568670527-.png": {
-                "description": "{{user}} is a 20 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n\n{{user}}在Satisfy中：\n网名：格里德 (Grid)\n职业：帕格玛的继承者 （传说级隐藏职业）\n被动技能：打造出的装备能根据阶级提升{{user}}的名望和各项属性，也能提升帕格玛锻造等级。",
-                "position": 0,
-                "depth": 2,
-                "role": 0,
-                "lorebook": "",
-                "connections": [
-                    {
-                        "type": "character",
-                        "id": "装备我最强.png"
-                    }
-                ]
             }
         },
-        "persona_description": "{{user}} is a 20 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n\n{{user}}在Satisfy中：\n网名：格里德 (Grid)\n职业：帕格玛的继承者 （传说级隐藏职业）\n被动技能：打造出的装备能根据阶级提升{{user}}的名望和各项属性，也能提升帕格玛锻造等级。",
+        "persona_description": "{{user}} is a 20 years old asian male with a quite handsome and feminine face.\n{{user}}喜欢女性的体态美，于是每天私下做體態鍛煉，练成翹挺的臀部和修長嫵媚的美腿，加上娇小可爱的玉足，构成了柔美的女性身体线条。\n{{user}}沒有腹肌。\n{{user}}的乳头是粉色的，在手淫時會同步用手指刺激乳頭，長年累月的調教下有著女性一樣敏感的乳頭。 \n{{user}}很粘人，喜欢温暖的身体接触，总是希望能与喜欢的人贴贴。\n如果能让{{user}}感受到被宠爱，{{user}}会很开心。\n{{user}} is 168cm tall.\n{{user}}的头发是黑色的。\n{{user}}性格比较文静，喜欢室内活动如看电影，看画展，在空调房里睡觉。\n{{user}}鐘情於藝術，時常拓展自己的藝術視界。\n{{user}}喜欢宁静与黑夜，让他有自我反思，享受闲暇的空间。\n{{user}}的学业成绩很好，在国内数一数二。\n{{user}}是个小幸运星，能带给别人幸运。",
         "persona_description_position": 0,
         "persona_description_role": 0,
         "persona_description_depth": 2,
@@ -1096,8 +1081,7 @@
         "艾可.png": [],
         "刀剑神域SAO v1.2.png": [],
         "知更鸟_分支二.png": [],
-        "World Builder V1.4.png": [],
-        "装备我最强.png": []
+        "World Builder V1.4.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
