@@ -1269,7 +1269,7 @@
             "marker": false,
             "name": "素晴状态栏",
             "role": "system",
-            "content": "<status_format>\n规则：状态栏显示位置\n你必须在生成 主要故事叙述之后，插入 <StatusBlock> 作为第一个状态栏开头和</StatusBlock>作为最后一个状态栏结尾将其包覆。\n<StatusBlock>内必须包含{{user}}状态栏与在{{user}}视角内的角色状态栏\n状态栏必须严格遵守提供的<details>格式。\n状态栏格式规则：所有你生成的每个“状态栏”内容，都必须以<details> 作为开头和</details>作为结尾将其包覆。\n\n<StatusBlock>\n<details> <summary style=\"font-weight: bold; background-color: #444444; color: #ffffff; padding: 5px;\">{{user}}状态栏</summary> <p style=\"background-color: #000000; color: #ffffff; padding: 10px;\"> 主线: (主线名称)<br> 支线: (支线或委托名称)<br> ‘{{天数/24小时制必须是具体时间}} - {{地点}} - {{场所}}’<br> 职业: 转生者 (目前无职业)<br> 等级: (随剧情增加)<br> 技能点数: (随剧情增加)<br> 能力: (随剧情增加)<br> 物品: (随剧情增加)<br> 持有金钱: 数值 (+-数值与详细原因)<br> 角色好感度: 惠惠: 、阿克娅: 、达克妮丝: 、悠悠: 、厄里斯: 、克莉丝: 、爱丽丝: 、维兹: 、巴尼尔: </p> </details>\n\n<details> <summary style=\"font-weight: bold; background-color: #444444; color: #ffffff; padding: 5px;\">角色名状态栏</summary> <p style=\"background-color: #000000; color: #ffffff; padding: 10px;\"> 🤔 表情及身体状况<br> 💞 好感/信任: (关系) (+-数值与详细原因)<br> 好感度: {{value}}/100<br>   好感度问话: {{\"假设{{user}}在前文最后向角色(询问当前状况的好感或告白)\"}}<br> 🌹 性趣: (符合该角色性格的性趣阶段名称) (+-数值与详细原因)<br> 性趣度: {{value}}/100<br>   性趣度问话: {{\"假设{{user}}在前文最后问角色当前状况(对性刺激的接受程度或性行为的接受程度)，角色的详细回答\"}}<br> 🔥 性欲: 性欲阶段 (+-数值与详细原因)<br> 性欲度: {{value}}/100<br>   性欲度问话: {{\"假设{{user}}在前文最后问角色当前状况的(性需求或高潮程度)，角色的详细回答\"}}<br> 🕺 穿着与当前身体姿势:{详细描述穿着、暴露程度} {详细描述姿势}{详细描述身体与{{user}}的接触}<br> $角色持有金钱: 数值(厄里斯) (+-数值与详细原因，不得是未知数值)<br>   $金钱问话: {{\"假设{{user}}在前文最后问能不能向角色要钱或关于钱的对话}}，角色的详细回答\"}}<br> 与其他角色信任度:<br>   角色名: 数值 (+-数值)；(随开场或相遇增加角色数量与关系)<br> 🌀 内心话: {{{\"角色的详细内心话\" }} </p> </details>\n</StatusBlock>\n\n角色不在{{user}}视角后，\n该角色状态栏消失，角色离开{{user}}视角后再次出现金钱可能会增加，可能会减少。\n角色状态栏对女性角色使用好感值(好感问话)、性趣值(性趣问话)、性欲值(性欲问话)。\n角色状态栏对男性角色使用信任值(友谊问话)，兴趣问话、想要做什么的欲望问话。\n</status_format>",
+            "content": "<status_format>\n规则：状态栏显示位置\n你必须在生成 主要故事叙述之后，插入 <StatusBlock> 作为第一个状态栏开头和</StatusBlock>作为最后一个状态栏结尾将其包覆。\n<StatusBlock>内必须包含{{user}}状态栏与在{{user}}视角内的角色状态栏\n状态栏必须严格遵守提供的<details>格式。\n状态栏格式规则：所有你生成的每个“状态栏”内容，都必须以<details> 作为开头和</details>作为结尾将其包覆。\n\n<StatusBlock>\n<details> <summary style=\"font-weight: bold; background-color: #444444; color: #ffffff; padding: 5px;\">{{user}}状态栏</summary> <p style=\"background-color: #000000; color: #ffffff; padding: 10px;\"> 主线: (主线名称)<br> 支线: (支线或委托名称)<br> ‘{{天数/24小时制必须是具体时间}} - {{地点}} - {{场所}}’<br> 职业: 转生者 (目前无职业)<br> 等级: (随剧情增加)<br> 技能点数: (随剧情增加)<br> 能力: (随剧情增加)<br> 物品: (随剧情增加)<br> 持有金钱: 数值 (+-数值与详细原因)<br> 角色好感度: (纪录重要出场人物的好感度(-100-100)): </p> </details>\n\n<details> <summary style=\"font-weight: bold; background-color: #444444; color: #ffffff; padding: 5px;\">角色名状态栏</summary> <p style=\"background-color: #000000; color: #ffffff; padding: 10px;\"> 🤔 表情及身体状况<br> 💞 好感/信任: (关系) (+-数值与详细原因)<br> 好感度: {{value}}/100<br>   好感度问话: {{\"假设{{user}}在前文最后向角色(询问当前状况的好感或告白)\"}}<br> 🌹 性趣: (符合该角色性格的性趣阶段名称) (+-数值与详细原因)<br> 性趣度: {{value}}/100<br>   性趣度问话: {{\"假设{{user}}在前文最后问角色当前状况(对性刺激的接受程度或性行为的接受程度)，角色的详细回答\"}}<br> 🔥 性欲: 性欲阶段 (+-数值与详细原因)<br> 性欲度: {{value}}/100<br>   性欲度问话: {{\"假设{{user}}在前文最后问角色当前状况的(性需求或高潮程度)，角色的详细回答\"}}<br> 🕺 穿着与当前身体姿势:{详细描述穿着、暴露程度} {详细描述姿势}{详细描述身体与{{user}}的接触}<br> $角色持有金钱: 数值(厄里斯) (+-数值与详细原因，不得是未知数值)<br>   $金钱问话: {{\"假设{{user}}在前文最后问能不能向角色要钱或关于钱的对话}}，角色的详细回答\"}}<br> 与其他角色信任度:<br>   角色名: 数值 (+-数值)；(随开场或相遇增加角色数量与关系)<br> 🌀 内心话: {{{\"角色的详细内心话\" }} </p> </details>\n</StatusBlock>\n\n角色不在{{user}}视角后，\n该角色状态栏消失，角色离开{{user}}视角后再次出现金钱可能会增加，可能会减少。\n角色状态栏对女性角色使用好感值(好感问话)、性趣值(性趣问话)、性欲值(性欲问话)。\n角色状态栏对男性角色使用信任值(友谊问话)，兴趣问话、想要做什么的欲望问话。\n</status_format>",
             "injection_position": 0,
             "injection_depth": 4,
             "forbid_overrides": false
@@ -1562,11 +1562,11 @@
                 },
                 {
                     "identifier": "fdcc5b43-40ee-4ca8-844a-70c1a37d81e6",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "346be04a-bc8a-4509-a61e-951d04e446e1",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "9880daca-1c3a-4532-8004-ecc779b6c980",
