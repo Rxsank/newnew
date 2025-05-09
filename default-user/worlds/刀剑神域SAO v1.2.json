@@ -2210,7 +2210,7 @@
             "addMemo": true,
             "order": 995,
             "position": 4,
-            "disable": true,
+            "disable": false,
             "excludeRecursion": true,
             "preventRecursion": true,
             "matchPersonaDescription": false,

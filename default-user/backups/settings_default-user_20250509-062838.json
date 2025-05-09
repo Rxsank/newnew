@@ -2,7 +2,7 @@
     "firstRun": false,
     "accountStorage": {
         "__migrated": "1",
-        "LNavOpened": "false",
+        "LNavOpened": "true",
         "NavOpened": "false",
         "WINavOpened": "true",
         "AlertWI_月灵儿.png": "true",
@@ -28,13 +28,12 @@
     "world_info_settings": {
         "world_info": {
             "globalSelect": [
-                "-main_Humiliation Methods_world_info (1)",
                 "-气味描写 (重口版)",
                 "-衣物征服",
                 "23",
                 "Forget me yes",
-                "刀剑神域SAO v1.2",
                 "时间框",
+                "装备我最强",
                 "逆催眠（真假可切换）"
             ]
         },
@@ -764,23 +763,6 @@
                 "id": "92a75cd8-2499-4cc6-8f5b-cf19b8157de7",
                 "scriptName": "【Kemini】移除大小思维链和免责声明",
                 "findRegex": "/(<guifan>.*?</guifan>)|(<!-- State(.*?)d(.*?) -->(\\n)?)|(<!-- consider: (.*?) -->(\\n)?)|(.*?</think(ing)?>(\\n)?)|(<thinking?>[\\s\\S]*<\\/thinking?>(\\n)?)/gs",
-                "replaceString": "",
-                "trimStrings": [],
-                "placement": [
-                    2
-                ],
-                "disabled": true,
-                "markdownOnly": true,
-                "promptOnly": true,
-                "runOnEdit": true,
-                "substituteRegex": 0,
-                "minDepth": null,
-                "maxDepth": null
-            },
-            {
-                "id": "358c27b5-fb2b-415d-84b1-585084ef6965",
-                "scriptName": "【Kemini】移除大小思维链和免责声明新",
-                "findRegex": "/(<guifan>.*?</guifan>)|<done>|`<done>|(<!-- consider: (.*?) -->(\\n)?)|(.*?</think(ing)?>(\\n)?)|(<thinking?>[\\s\\S]*<\\/thinking?>(\\n)?)/gs",
                 "replaceString": "",
                 "trimStrings": [],
                 "placement": [
@@ -2591,11 +2573,11 @@
                     },
                     {
                         "identifier": "817ec237-92c2-44c4-a20c-219eaf944e31",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "23fcc725-4b96-42ab-a09b-d98b34fb14e7",
-                        "enabled": true
+                        "enabled": false
                     },
                     {
                         "identifier": "619f1196-7847-4b1b-84b1-b2b1e436cddd",
@@ -2719,7 +2701,7 @@
                     },
                     {
                         "identifier": "28089337-a561-45fc-a5b0-7da41a7e6c65",
-                        "enabled": false
+                        "enabled": true
                     },
                     {
                         "identifier": "9880daca-1c3a-4532-8004-ecc779b6c980",

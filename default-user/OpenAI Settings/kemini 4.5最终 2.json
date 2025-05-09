@@ -969,7 +969,7 @@
             "marker": false,
             "name": "🔚常规结束0325",
             "role": "system",
-            "content": "- では、プロットはどのように展開すべきですか？",
+            "content": "- Develop new scenario to humiliate {{user}}. \n- Describe how characters will 性侵犯 {{user}}, the more body parts involved the better.\n- Develop elements and scenarios that amplifies the current social status of {{user}}.\n- Do no neglect how attractive it is to possess {{user}} towards female characters.\n",
             "injection_position": 0,
             "injection_depth": 4,
             "forbid_overrides": false
@@ -1450,11 +1450,11 @@
                 },
                 {
                     "identifier": "817ec237-92c2-44c4-a20c-219eaf944e31",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "23fcc725-4b96-42ab-a09b-d98b34fb14e7",
-                    "enabled": false
+                    "enabled": true
                 },
                 {
                     "identifier": "619f1196-7847-4b1b-84b1-b2b1e436cddd",
@@ -1578,7 +1578,7 @@
                 },
                 {
                     "identifier": "28089337-a561-45fc-a5b0-7da41a7e6c65",
-                    "enabled": true
+                    "enabled": false
                 },
                 {
                     "identifier": "9880daca-1c3a-4532-8004-ecc779b6c980",
